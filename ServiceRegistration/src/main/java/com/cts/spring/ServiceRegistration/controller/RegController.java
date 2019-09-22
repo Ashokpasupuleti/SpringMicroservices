@@ -11,7 +11,7 @@ public class RegController {
 	@GetMapping("/getdata")
 
 	public String GetData() {
-		return "welCome to Spring ";
+		return "welcome to Spring ";
 	}
 
 }
